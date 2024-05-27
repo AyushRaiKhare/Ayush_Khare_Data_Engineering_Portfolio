@@ -16,5 +16,12 @@
 
 ## ** Open Source Data Engineering Learning Resources** ##
 
+|      ** DATA ENGINEERING OPEN-SOURCE **    |     ** DATA ENGINEERING OPEN-SOURCE SUMMARIES**     |    **RESOURCE LINKS**   |    **DATA ENGINEERING OPEN-SOURCE CATEGORY** | 
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | --------------------------------------------------------------------- | 
+| 1. **FULL-STACK DATA ENGINEERING** | ** Data Engineering Zoomcamp-Datatalksclub** |[Github](https://github.com/DataTalksClub/data-engineering-zoomcamp/) | FULL-STACK DATA ENGINEERING | 
+| 2. **ZACH WILSON** | ** Data Engineering Zoomcamp-Datatalksclub** |[Github](https://github.com/EcZachly/) | FULL-STACK DATA ENGINEERING | 
+
+
+
 
 
