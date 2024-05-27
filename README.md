@@ -1,4 +1,4 @@
-## Aditi @ Data Engineering Portfolio ##
+## Ayush @ Data Engineering Portfolio ##
 
 ## Greetings Data Engineering Community 👋 About me 
 
